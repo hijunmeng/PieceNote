@@ -11,6 +11,6 @@ pause
 ```
 ---
 > 移动数据统计、报告
-* https://www.umeng.com/reports.html?from=hp
+* http://www.umeng.com/reports.html?from=hp
 * https://mta.qq.com/mta/data/device
 * https://www.zhihu.com/question/19766160
