@@ -9,3 +9,7 @@
 ......
 pause
 ```
+
+> 移动数据统计、报告
+* http://www.umeng.com/reports.html?from=hp
+* https://mta.qq.com/mta/data/device
